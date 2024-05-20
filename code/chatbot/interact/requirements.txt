@@ -1,0 +1,9 @@
+bitsandbytes
+fire
+--extra-index-url https://abetlen.github.io/llama-cpp-python/whl/cpu
+llama_cpp_python
+safetensors
+sentencepiece
+sounddevice
+tqdm
+transformers
